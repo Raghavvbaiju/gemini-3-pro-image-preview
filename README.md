@@ -14,8 +14,9 @@
 - ✅ 新增 **全局提示 / 加载 / 进度条 / 错误处理**，整体体验更顺滑
 
 整个应用 **纯前端运行**，所有配置和历史记录都保存在本地浏览器中，无需后端服务。
-<img width="384" height="192" alt="image" src="https://github.com/user-attachments/assets/0d405894-30d5-4869-93cf-42e6cb34b34c" />
 > 🚀 你可以将本仓库部署到 GitHub Pages 或任意静态网页托管平台，即可在线使用。
+
+<img width="384" height="192" alt="image" src="https://github.com/user-attachments/assets/0d405894-30d5-4869-93cf-42e6cb34b34c" />
 
 ---
 
